@@ -222,6 +222,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+- [droid-agent](https://github.com/hyusband/droid-agent) - Give AI agents control of a real Android device over stock adb: numbered UI refs, tap/type/swipe, zero on-device install, zero dependencies.
 
 ### Database
 
